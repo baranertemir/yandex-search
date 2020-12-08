@@ -5,7 +5,6 @@ Created on Mon Dec  8 23:05:01 2020
 
 @author: A.Baran Ertemir & Eren Şimşek <Aporlorxl23>
 """
-import string
 import requests
 from bs4 import BeautifulSoup
 
